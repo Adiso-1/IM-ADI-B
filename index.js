@@ -1,4 +1,4 @@
-const baseEndpoint = "http://www.omdbapi.com/?apikey=6a86e7e";
+const baseEndpoint = "https://www.omdbapi.com/?apikey=6a86e7e";
 const movieContainer = document.querySelector(".movie-container");
 const movieDescription = document.querySelector(".movie-description");
 const posterContainer = document.querySelector(".poster");
