@@ -64,7 +64,7 @@ input.addEventListener('input',(e) => {
     for (let i = 0; i < 3; i++) {
         
     }
-    console.log(input.value);
+    // console.log(input.value);
 })
 
 button.addEventListener('click',(e) => {
